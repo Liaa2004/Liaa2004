@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Angelia
-- 🎓 3rd Year CS Student
 - 🌍 Learning through exploring tech
 - 🛠️ Currently exploring full stack dev, with a growing curiosity about the world of data and insights
 
